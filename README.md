@@ -5,7 +5,7 @@ checked for the name of the file extension
 I used file class to create a file object
 and finally checked if the file is empty
 
-I used DOM Parser to read and write the xml file with help from the youtube and internet
+I used DOM Parser to read and write the xml file with help from youtube and internet
 I made a Container Class with datafields UUID LongName and ShortName so that every container will instantiate an object
 I made an ArrayList so it has a dynamic size and use the sort method
 to use the sort method I must implement Comparable interface in Container Class... it was easy as we are comparing Strings and String Class
